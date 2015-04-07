@@ -3,7 +3,7 @@
  */
 public class variabel_panjang {
         public static void main(String[] args) {
-            System.out.printf("Persegi mengikuti nilai dari variabel panjang");
+            System.out.printf("Persegi mengikuti nilai dari variabel panjang ");
             int akhir=110;
 
             for (int i=1;i<=akhir;i++){
